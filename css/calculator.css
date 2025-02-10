@@ -1,0 +1,23 @@
+.btn {
+  border: 2px solid #fff;
+  border-radius: 30px;
+  padding: 10px 30px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.input {
+  width: 200px;
+  height: 45px;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  outline: none;
+  border: none;
+}
+
+.main {
+  width: 100%;
+  height: 500px;
+}
